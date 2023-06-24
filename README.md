@@ -92,7 +92,7 @@
   </div>
 
   <div class="container">
-    <img src="Downloads\demoweb\music.jpg" alt="music" width="1000" height="300">
+    <img src="music.jpg" alt="music" width="1000" height="300">
     <div class="center">TITLE</div>
   </div>
 
