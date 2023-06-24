@@ -38,7 +38,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">HOME</a>
   <a href="#ARTICLE 1 LINK">ARTICLE 1</a>
-  <a href="#ARTICLE 2 LINK">ARTICLE 2</a>
+  <a href="https://veronicacopparoni.github.io/Best-female-music-artists/">ARTICLE 2</a>
   <a href="#ARTICLE 3 LINK">GUITARS</a>
   <a href="#REPORTS LINK">OUR REPORTS</a>
 </div>
