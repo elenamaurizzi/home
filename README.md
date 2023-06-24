@@ -151,7 +151,7 @@ footer {
 </div>
 
 <div class="container">
-  <a href="ARTICLE 2"><img src="females.jpg" alt="Snow" style="width:60%;">
+  <a href="https://veronicacopparoni.github.io/Best-female-music-artists/"><img src="females.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 2</span></h2></div>
 </div>
