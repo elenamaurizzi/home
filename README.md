@@ -39,7 +39,7 @@ body {
   <a class="active" href="#home">HOME</a>
   <a href="#ARTICLE 1 LINK">ARTICLE 1</a>
   <a href="https://veronicacopparoni.github.io/Best-female-music-artists/">ARTICLE 2</a>
-  <a href="#ARTICLE 3 LINK">GUITARS</a>
+  <a href="#ARTICLE 3 LINK">ARTICLE 3</a>
   <a href="#REPORTS LINK">OUR REPORTS</a>
 </div>
 
@@ -53,7 +53,7 @@ body {
 }
 
 .showcase img {
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 .centered {
@@ -61,7 +61,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -100%);
-  color: #000000;
+  color: #ffffff;
 }
 
 </style>
@@ -98,8 +98,10 @@ body {
   margin: 0 auto;
   max-width: 600px;
   padding: 0 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
 }
-  
+
 /* Style the footer */
 footer {
   background-color: #f2f4f3ce;
@@ -122,7 +124,7 @@ footer {
 <body>
 
 <div class="showcase">
-  <img src="records.jpeg" alt="Snow" style="width:100%;">
+  <img src="records2.jpeg" alt="Snow" style="width:100%;">
   
   <div class="centered"><h1 align="centered"><span style="font-family:Georgia,serif">ADD GORUP TITLE</span></h1></div>
 
@@ -136,7 +138,7 @@ footer {
 <br><br><br>
   <h1 align="center"><span style="font-family:Georgia,serif">ADD TITLE OF THE PROJECT</span></h1>
 <br>
-  <p align="center">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p align="justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <br><br><br>
 
@@ -145,7 +147,7 @@ footer {
 
 
 <div class="container">
-  <a href="ARTICLE 1"><img src="picture.jpg" alt="Snow" style="width:60%;">
+  <a href="ARTICLE 1"><img src="sceglievinile.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 1</span></h2></div>
 </div>
@@ -157,7 +159,7 @@ footer {
 </div>
 
 <div class="container">
-  <a href="ARTICLE 3"><img src="music.jpg" alt="Snow" style="width:60%;">
+  <a href="ARTICLE 3"><img src="guit.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 3</span></h2></div>
 </div>
