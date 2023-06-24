@@ -37,7 +37,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">HOME</a>
-  <a href="#ARTICLE 1 LINK">ARTICLE 1</a>
+  <a href="https://elenamaurizzi.github.io/articolo1prova/">ARTICLE 1</a>
   <a href="https://veronicacopparoni.github.io/Best-female-music-artists/">ARTICLE 2</a>
   <a href="#ARTICLE 3 LINK">ARTICLE 3</a>
   <a href="#REPORTS LINK">OUR REPORTS</a>
@@ -147,7 +147,7 @@ footer {
 
 
 <div class="container">
-  <a href="ARTICLE 1"><img src="sceglievinile.jpg" alt="Snow" style="width:60%;">
+  <a href="https://elenamaurizzi.github.io/articolo1prova/"><img src="sceglievinile.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 1</span></h2></div>
 </div>
