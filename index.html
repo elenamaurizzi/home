@@ -38,7 +38,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">HOME</a>
   <a href="https://elenamaurizzi.github.io/articolo1prova/">ARTICLE 1</a>
-  <a href="https://github.com/elenamaurizzi/article2prova">ARTICLE 2</a>
+  <a href="https://elenamaurizzi.github.io/article2prova/">ARTICLE 2</a>
   <a href="#ARTICLE 3 LINK">ARTICLE 3</a>
   <a href="#REPORTS LINK">OUR REPORTS</a>
 </div>
