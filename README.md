@@ -1,111 +1,165 @@
 <html>
 <head>
-  <title>My Webpage</title>
-  <style>
-    body {
-      background-color: #ffffff;
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .navigation {
-      background-color: #2f2f32;
-      overflow: hidden;
-    }
-    .navigation a {
-      float: left;
-      color: #ffffff;
-      text-align: center;
-      padding: 14px 16px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    .navigation a:hover {
-      background-color: #505760be;
-    }
 
-    .container {
-     position: relative;
-    }
+<title>project</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-   .center {
-     position: absolute;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-     font-size: 50px;
-    }
+.topnav {
+  overflow: hidden;
+  background-color: #353535;
+}
 
-    img { 
-     width: 100%;
-     height: auto;
-     opacity: 0.5;
-    }
-    
-    .content {
-      background-color: #fff;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      font-size: 30px;
-      color: #333;
-      margin-top: 0;
-    }
+.topnav a {
+  float: left;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
 
-    h2 {
-        text-align: center;
-    }
-    p {
-        text-align: center;
-        font-family: 'Arial', sans-serif;
-        margin-left: 10;
-        color: #555;
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
-    }
-    .article-link img {
-      display: block;
-      margin: 0 auto;
-      width: 700px;
-      height: 350px;
-      margin-bottom: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      opacity: 1;
-    }
-    .footer {
-      background-color: #f5f8fa;
-      color: #777;
-      padding: 10px;
-      text-align: center;
-      font-size: 14px;
-    }
-  </style>
+
+</style>
 </head>
+
 <body>
-  <div class="navigation">
-    <a href="#home">HOME</a>
-    <a href="#article1">ARTICLE 1</a>
-    <a href="#article2">ARTICLE 2</a>
-    <a href="#article3">ARTICLE 3</a>
-    <a href="#report">REPORT</a>
-  </div>
 
-  <div class="container">
-    <img src="music.jpg" alt="music" width="1000" height="300">
-    <div class="center">TITLE</div>
-  </div>
+<div class="topnav">
+  <a class="active" href="#home">HOME</a>
+  <a href="#ARTICLE 1 LINK">ARTICLE 1</a>
+  <a href="#ARTICLE 2 LINK">ARTICLE 2</a>
+  <a href="#ARTICLE 3 LINK">GUITARS</a>
+  <a href="#REPORTS LINK">OUR REPORTS</a>
+</div>
 
-  <div class="content">
-    <h2>Title</h2>
-    <p>aggiungi intro.</p>
-    <a href="#article1" class="article-link"><img src="picture.jpg" alt="Article 1"></a>
-    <a href="#article2" class="article-link"><img src="females.jpg" alt="Article 2"></a>
-    <a href="#article3" class="article-link"><img src="image3.jpg" alt="Article 3"></a>
-  </div>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
-  <div class="footer">
-    All rights reserved to My Webpage
-  </div>
+.showcase {
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.showcase img {
+    opacity: 0.5;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  color: #000000;
+}
+
+</style>
+
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.container img {
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+.container:hover img {
+  opacity: 0.5;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+}
+
+.container:hover .centered {
+  display: block;
+}
+
+/* Style the footer */
+footer {
+  background-color: #f2f4f3ce;
+  padding: 10px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
+</style>
+
+</head>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<body>
+
+<div class="showcase">
+  <img src="records.jpeg" alt="Snow" style="width:100%;">
+  
+  <div class="centered"><h1 align="centered"><span style="font-family:Georgia,serif">ADD GORUP TITLE</span></h1></div>
+
+</div>
+
+
+
+
+
+<div class="w3-container">
+<br><br><br>
+  <h1 align="center"><span style="font-family:Georgia,serif">ADD TITLE OF THE PROJECT</span></h1>
+<br>
+  <p align="center">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<br><br><br>
+
+</div>
+
+
+
+<div class="container">
+  <a href="ARTICLE 1"><img src="picture.jpg" alt="Snow" style="width:60%;">
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 1</span></h2></div>
+</div>
+
+<div class="container">
+  <a href="ARTICLE 2"><img src="females.jpg" alt="Snow" style="width:60%;">
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 2</span></h2></div>
+</div>
+
+<div class="container">
+  <a href="ARTICLE 3"><img src="music.jpg" alt="Snow" style="width:60%;">
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 3</span></h2></div>
+</div>
+<br><br>
+
+
+<footer>
+  <p>All rights reseved to ...</p>
+</footer>
+
 </body>
-</html>
+</html> 
