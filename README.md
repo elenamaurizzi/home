@@ -39,7 +39,7 @@ body {
   <a class="active" href="#home">HOME</a>
   <a href="https://elenamaurizzi.github.io/articolo1prova/">ARTICLE 1</a>
   <a href="https://elenamaurizzi.github.io/article2prova/">ARTICLE 2</a>
-  <a href="#ARTICLE 3 LINK">ARTICLE 3</a>
+  <a href="https://elenamaurizzi.github.io/article3prova/">ARTICLE 3</a>
   <a href="https://elenamaurizzi.github.io/report/">OUR REPORTS</a>
 </div>
 
@@ -159,7 +159,7 @@ footer {
 </div>
 
 <div class="container">
-  <a href="ARTICLE 3"><img src="guit.jpg" alt="Snow" style="width:60%;">
+  <a href="https://elenamaurizzi.github.io/article3prova/"><img src="guit.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 3</span></h2></div>
 </div>
