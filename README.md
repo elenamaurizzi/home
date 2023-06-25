@@ -124,7 +124,7 @@ footer {
 <body>
 
 <div class="showcase">
-  <img src="header.jpeg" alt="Snow" style="width:100%;">
+  <img src="header.jpg" alt="Snow" style="width:100%;">
   
   <div class="centered"><h1 align="centered"><span style="font-family:Georgia,serif">ADD GORUP TITLE</span></h1></div>
 
