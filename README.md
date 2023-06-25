@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -7,6 +8,8 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  border-left: 100px solid white;
+  border-right: 100px solid white;
 }
 
 .topnav {
@@ -102,7 +105,7 @@ body {
   font-size: 20px;
 }
 
-/* Style the footer */
+
 footer {
   background-color: #f2f4f3ce;
   padding: 30px;
@@ -153,7 +156,7 @@ footer {
 </div>
 
 <div class="container">
-  <a href="">https://elenamaurizzi.github.io/article2prova/<img src="females.jpg" alt="Snow" style="width:60%;">
+  <a href="https://elenamaurizzi.github.io/article2prova/"><img src="females.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 2</span></h2></div>
 </div>
@@ -165,9 +168,9 @@ footer {
 </div>
 <br><br>
 
+
 <footer>
 </footer>
-
 
 </body>
 </html> 
