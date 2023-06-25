@@ -166,9 +166,5 @@ footer {
 <br><br>
 
 
-<footer>
-  <p>All rights reseved to ...</p>
-</footer>
-
 </body>
 </html> 
