@@ -105,7 +105,7 @@ body {
 /* Style the footer */
 footer {
   background-color: #f2f4f3ce;
-  padding: 10px;
+  padding: 30px;
   text-align: center;
   color: rgb(0, 0, 0);
   font-family: 'Times New Roman', Times, serif;
@@ -164,6 +164,9 @@ footer {
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 3</span></h2></div>
 </div>
 <br><br>
+
+<footer>
+</footer>
 
 
 </body>
