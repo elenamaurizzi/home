@@ -8,8 +8,6 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  border-left: 100px solid white;
-  border-right: 100px solid white;
 }
 
 .topnav {
