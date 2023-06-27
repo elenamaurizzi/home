@@ -160,7 +160,7 @@ footer {
 </div>
 
 <div class="container">
-  <a href="https://elenamaurizzi.github.io/article3prova/"><img src="indierock.jpg" alt="Snow" style="width:60%;">
+  <a href="https://elenamaurizzi.github.io/article3prova/"><img src="guit.jpg" alt="Snow" style="width:60%;">
   <div class="bottom-right">Bottom Right</div>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">ARTICLE 3</span></h2></div>
 </div>
